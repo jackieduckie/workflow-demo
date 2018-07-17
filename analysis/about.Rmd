@@ -5,4 +5,4 @@ output:
     toc: false
 ---
 
-Describe your project.
+This is a tryout version of the workflowr package. 17/07/2018-14:59
